@@ -1,0 +1,4 @@
+data/**/*.gz
+data/**/*-ubyte
+venv
+*.pth
